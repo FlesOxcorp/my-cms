@@ -1,0 +1,8 @@
+/PortableGit/
+bin/
+cmd/
+etc/
+mingw64/
+*.exe
+*.portable
+*.log
